@@ -1,0 +1,71 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# Local development
+.DS_Store
+
+# Miscellaneous
+*.sublime-workspace
+*.sublime-project
+.idea/
+.vscode/
+*.swp
+
+# Temporary files
+tmp/
+temp/
+
+# Build directory
+dist/
+build/
+
+# Coverage directory used by testing frameworks
+coverage/
+
+# Ignore all JSON data files (assuming you want to keep data files local)
+data.json
+
+# Specific files
+*.iml
+
+# Ignore files with secret information
+secret/
+
+# Production environment variables
+.env.production
+.env.development.local
+
+# Optional npm cache directory
+.npm/
+
+# Optional yarn cache directory
+.yarn/
+
+# Optional lock files
+yarn.lock
+package-lock.json
+
+# GitHub
+.github/
+
+# Ignore IDE specific files
+*.code-workspace
+.vscode/
+
+# Compiled files
+*.exe
+*.out
+*.dll
+*.class
+*.pdb
+
+# Custom rule to ignore specific files
+# Add any other specific files or directories you want to ignore below
