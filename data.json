@@ -1,0 +1,30 @@
+[
+  {
+    "name": "1",
+    "mail": "1",
+    "password": "1",
+    "id": "20240808-1",
+    "state": "on"
+  },
+  {
+    "name": "admin",
+    "mail": "123",
+    "password": "123",
+    "id": "20240808-2",
+    "state": "off"
+  },
+  {
+    "name": "khoa",
+    "mail": "nhà nghèo ko có tiền mua đt",
+    "password": "123",
+    "id": "20240808-3",
+    "state": "on"
+  },
+  {
+    "name": "1",
+    "mail": "t",
+    "password": "t5",
+    "id": "20240808-4",
+    "state": "off"
+  }
+]
